@@ -66,3 +66,5 @@
 
 # password = int(input("Enter a password: "))
 
+a = "second"
+print(a)
